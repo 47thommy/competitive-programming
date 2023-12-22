@@ -1,7 +1,4 @@
-from typing import List
-
 class Robot:
-
     def __init__(self, width: int, height: int):
         self.position = 0
         self.direction = 0
